@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sudha-Chandrika-Anil, MCA student @ Rajagiri College of Social Sciences.
-- 👀 I’m interested in reading, painting, sewing and always looking forward to learning new things.  
+- 👀 I’m interested in immersing myself in reading, painting, and seeking out fresh perspectives fuels my creative endeavors.
 - 🌱 I’m currently learning C programming , Java ...
 - 💞️ I’m looking to collaborate on projects that challenge and inspire me.
 - 😄 Pronouns: She/her
