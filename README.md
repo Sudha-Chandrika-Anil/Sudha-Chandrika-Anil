@@ -2,7 +2,7 @@
 - 👀 My passion lies in immersing myself in the realms of reading and painting, while actively seeking fresh perspectives to fuel my creative endeavors.
 - 🌱 I’m currently learning C programming , Java ...
 - 💞️ I’m looking to collaborate on projects that challenge and inspire me.
-- 😄 Pronouns: She/her
+
 
 <div align="center">
   <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C"/></code>
